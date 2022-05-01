@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:context_provider/context_provider.dart';
+import 'package:only_store/only_store.dart';
 
 void main() {
   test('adds one to input values', () {

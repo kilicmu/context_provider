@@ -1,4 +1,4 @@
-library context_provider;
+library only_store;
 
 import 'package:flutter/foundation.dart';
 

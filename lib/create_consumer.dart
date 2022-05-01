@@ -1,7 +1,7 @@
-library context_provider;
+library only_store;
 
-import 'package:context_provider/consumer.dart';
-import 'package:context_provider/provider.dart';
+import 'package:only_store/consumer.dart';
+import 'package:only_store/provider.dart';
 import 'package:flutter/material.dart';
 
 typedef ConsumerCreator<T extends Provider> = Consumer<T> Function(

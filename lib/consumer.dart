@@ -1,6 +1,6 @@
-library context_provider;
+library only_store;
 
-import 'package:context_provider/provider.dart';
+import 'package:only_store/provider.dart';
 import 'package:flutter/material.dart';
 
 class Consumer<T extends Provider> extends StatefulWidget {

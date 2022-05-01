@@ -1,4 +1,4 @@
-## context_provider
+## only_store
 
 Easy to use status management tool, Depends on the flutter.
 
@@ -7,7 +7,7 @@ Easy to use status management tool, Depends on the flutter.
 1. create a new store class, which extends Provider:
 
 ```dart
-import 'package:context_provider_demo/context_provider/lib.dart';
+import 'package:only_store_demo/only_store/lib.dart';
 
 class Store extends Provider {
   int counter = 1;

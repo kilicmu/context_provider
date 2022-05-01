@@ -1,6 +1,6 @@
-name: context_provider
-description: A new Flutter package project.
-version: 0.0.1
+name: only_store
+description: Easy to use status management tool, Depends on the flutter.
+version: 0.0.2-alpha
 repository: https://github.com/kilicmu/context_provider
 
 environment:
