@@ -1,8 +1,4 @@
-library only_store;
-
-import 'package:only_store/consumer.dart';
-import 'package:only_store/provider.dart';
-import 'package:flutter/material.dart';
+part of only_store;
 
 typedef ConsumerCreator<T extends Provider> = Consumer<T> Function(
     Widget Function(T, BuildContext));

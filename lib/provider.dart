@@ -1,6 +1,4 @@
-library only_store;
-
-import 'package:flutter/foundation.dart';
+part of only_store;
 
 class Provider extends ChangeNotifier {
   Provider({

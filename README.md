@@ -4,10 +4,12 @@ Easy to use status management tool, Depends on the flutter.
 
 ## Getting started
 
+add dep: only_store. then:
+
 1. create a new store class, which extends Provider:
 
 ```dart
-import 'package:only_store_demo/only_store/lib.dart';
+import 'package:only_store/only_store.dart';
 
 class Store extends Provider {
   int counter = 1;
