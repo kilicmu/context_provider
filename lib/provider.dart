@@ -1,3 +1,5 @@
+library context_provider;
+
 import 'package:flutter/foundation.dart';
 
 class Provider extends ChangeNotifier {

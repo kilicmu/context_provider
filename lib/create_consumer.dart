@@ -1,3 +1,5 @@
+library context_provider;
+
 import 'package:context_provider/consumer.dart';
 import 'package:context_provider/provider.dart';
 import 'package:flutter/cupertino.dart';

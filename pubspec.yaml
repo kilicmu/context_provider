@@ -1,7 +1,7 @@
 name: context_provider
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+repository: https://github.com/kilicmu/context_provider
 
 environment:
   sdk: ">=2.16.2 <3.0.0"

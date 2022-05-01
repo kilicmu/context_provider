@@ -1,3 +1,5 @@
+library context_provider;
+
 import 'package:context_provider/provider.dart';
 import 'package:flutter/material.dart';
 
